@@ -1,0 +1,29 @@
+---
+title: "Inheritance and Gender Inequality"
+output: word_document
+date: '2022-05-17'
+---
+
+##  Inheritance and Gender Inequality
+
+The result was obtained by the code below:
+```{r}
+data<- read.csv("https://raw.githubusercontent.com/f1kidd/Econ184/main/Data/hager_final.csv")
+model3<-lm(gem_women_share~fair_dic+lon+lat+childlabor_mean_1898+law_cat+support_expenses_total_capita+
+             gem_council+ gem_pop_density+pop_tot,data = data)
+summary(model3)
+```
+The OLS mode had the gem_women_share as the dependent variable and fair_dic as independent variable alongside other control variables.The p-value of fair_dic is 0.02715 which is less than the significance level(0.05) and thus rejection of the null hypothesis which says that historical equitable inheritance has not significant effect on share of women in municipal council in year 2016. This support my inference made in my answer. An endogenous variable is influenced by other factors in the model. Since inheritance is obtained after death an inference can be made that other factors are responsible for the outcome of the sharing process.
+
+Moving on to the model proposed by the Hager and Hilbig, the fixed effect model was fitted using the plm() function. The individual fixed effect analysed was based on the grouping by state. 
+```{r}
+library(plm)
+model5<-plm(gem_women_share~fair_dic+elev_mean+river_dist_min+roman+lon+lat+childlabor_mean_1898+law_cat+support_expenses_total_capita+
+             gem_council+ gem_pop_density+pop_tot,data = data, index = ("state"),
+            model = "within", effect = "individual")
+summary(model5)
+```
+
+The above results are in line with with conclusion that "The Roman rules, Distance to rivers is likely to be exogenous , while the mean of elevation is unlikely to be exogenous. This is because the p value of the mean is less than 0.05 and two other instrument p value are greater than 0.05." 
+
+
