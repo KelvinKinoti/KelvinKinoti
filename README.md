@@ -2,11 +2,12 @@
 
 <div align="center">
   
-### 🎯 Actuarial Scientist | 📊 Data Wizard | 🤖 ML Enthusiast
+### 🎯 Actuarial Analyst | 📊 Data Wizard | 🤖 ML Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kelvin_Kinoti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Email](https://img.shields.io/badge/Email-kinotikev.ke%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:kinotikev.ke@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-070446130-green?style=for-the-badge&logo=phone)](tel:070446130)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kelvin_Kinoti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+(https://www.linkedin.com/in/kelvin-kinoti-782066210/)
+[![Email](https://img.shields.io/badge/Email-kinotikelvin.ke%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:kinotikev.ke@gmail.com)
+
 
 </div>
 
@@ -102,43 +103,19 @@ Created interactive Tableau dashboards analyzing historical sales data with time
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 </div>
 
 ---
 
-## 💼 Professional Experience
-
-**🏢 Market Research Analyst Intern** @ Capital Sacco Limited  
-*May - August 2021*
-
-- 📊 Analyzed market opportunities and consumer behavior
-- 🎯 Identified new products, services, and advertising opportunities
-- 📝 Prepared comprehensive market research reports
-
----
-
-## 🌟 Leadership & Community
-
-- 🎓 **Vice-Chairman** - DeKUT Actuarial Students' Association
-- 📐 **Former Member** - Actuarial Students' Society of Kenya
-- ⚙️ **Rotaract Member** - Community Service & Leadership
-- ❤️ **Volunteer** - Data Entry @ Sipili Health Centre (HIV & TB wing)
-
----
-
 ## 🎓 Certifications & Education
 
 ```
-🎯 Data Science Program ─────────────── Moringa School (2025)
-📊 BSc. Actuarial Science ─────────── DeKUT (2018-2022)
-🏆 Starehe Boys' Center ──────────── KCSE (2014-2017)
-```
+🎯 Data Science Program ─────────────── Moringa School
+📊 BSc. Actuarial Science ─────────── DeKUT 
 
----
+```
 
 ## 💡 Core Interests
 
@@ -146,18 +123,6 @@ Created interactive Tableau dashboards analyzing historical sales data with time
 |:------------------:|:------------------:|:-------------------------:|
 | Applied risk methodologies & mortality modeling | Automating repetitive tasks with ML | Data-driven business decisions |
 
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-**Open to opportunities in Data Science, Risk Analytics, and Machine Learning!**
-
-📧 Email: kinotikev.ke@gmail.com  
-📱 Phone: 070446130
-
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
 
 ---
 
@@ -166,6 +131,3 @@ Created interactive Tableau dashboards analyzing historical sales data with time
 </div>
 
 ---
-
-### 🎨 Profile Views Counter
-![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
