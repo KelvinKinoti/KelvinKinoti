@@ -1,11 +1,10 @@
 # 👋 Hey there! I'm Kelvin Kinoti
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Actuarial+Analyst+%F0%9F%8E%AF;Data+Wizard+%F0%9F%93%8A;ML+Enthusiast+%F0%9F%A4%96;Turning+Data+into+Decisions!)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kelvin_Kinoti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-kinoti-782066210/)
-[![Email](https://img.shields.io/badge/Email-kinotikev.ke%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:kinotikev.ke@gmail.com)
+### 🎯 Actuarial Analyst | 📊 Data Wizard | 🤖 ML Enthusiast
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=I'm+the+one+who+makes+messy+data+confess+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 </div>
 
@@ -118,10 +117,10 @@ Created interactive Tableau dashboards analyzing historical sales data with time
 
 ### 📫 Let's Connect!
 
-**Open to opportunities in Data Science, Risk Analytics, and Machine Learning!**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kelvin_Kinoti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-kinoti-782066210/)
+[![Email](https://img.shields.io/badge/Email-kinotikelvin.ke@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:kinotikelvin.ke@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-kinoti-782066210/)
-[![Email](https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kinotikev.ke@gmail.com)
+**Open to opportunities in Data Science, Risk Analytics, and Machine Learning!**
 
 ---
 
