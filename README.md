@@ -9,14 +9,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Turning+data+into+insights%2C+one+model+at+a+time!+%F0%9F%92%BB%E2%9C%A8)](https://git.io/typing-svg)
 
 
-<div align="center">
-
-### 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kelvin_Kinoti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-kinoti-782066210/)
-[![Email](https://img.shields.io/badge/Email-kinotikelvin.ke@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:kinotikelvin.ke@gmail.com)
-
-
 ---
 </div>
 
