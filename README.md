@@ -4,6 +4,7 @@
   
 ### 🎯 Actuarial Scientist | 📊 Data Wizard | 🤖 ML Enthusiast
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kelvin_Kinoti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
 [![Email](https://img.shields.io/badge/Email-kinotikev.ke%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:kinotikev.ke@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-070446130-green?style=for-the-badge&logo=phone)](tel:070446130)
 
