@@ -6,9 +6,10 @@
 
 ### 🎯 Actuarial Analyst | 📊 Data Wizard | 🤖 ML Enthusiast
   
-[![Typing SVG](https://readme-typing-svg.demolab.com/api?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=I+turn+chaos+into+clarity%2C+one+dataset+at+a+time+%F0%9F%94%A5;Making+messy+data+confess+its+secrets+%F0%9F%95%B5%EF%B8%8F;Where+numbers+meet+narratives+%F0%9F%93%88%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Turning+data+into+insights%2C+one+model+at+a+time!+%F0%9F%92%BB%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
+
 
 ---
 
@@ -126,6 +127,3 @@ Created interactive Tableau dashboards analyzing historical sales data with time
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Turning+data+into+insights%2C+one+model+at+a+time!+%F0%9F%92%BB%E2%9C%A8)](https://git.io/typing-svg)
-
-</div>
