@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Kelvin Kinoti
+
 
 <div align="center">
 
