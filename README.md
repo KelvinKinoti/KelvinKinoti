@@ -2,9 +2,11 @@
 
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=KELVIN%20KINOTI%20NTIRITU&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
 ### 🎯 Actuarial Analyst | 📊 Data Wizard | 🤖 ML Enthusiast
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=I'm+the+one+who+makes+messy+data+confess+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/api?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=I+turn+chaos+into+clarity%2C+one+dataset+at+a+time+%F0%9F%94%A5;Making+messy+data+confess+its+secrets+%F0%9F%95%B5%EF%B8%8F;Where+numbers+meet+narratives+%F0%9F%93%88%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
