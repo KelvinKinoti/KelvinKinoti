@@ -17,10 +17,9 @@
 [![Email](https://img.shields.io/badge/Email-kinotikelvin.ke@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:kinotikelvin.ke@gmail.com)
 
 
-
+---
 </div>
 
----
 
 ## 🚀 About Me
 
