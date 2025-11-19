@@ -4,12 +4,21 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=KELVIN%20KINOTI%20NTIRITU&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-### 🎯 Actuarial Analyst | 📊 Data Wizard | 🤖 ML Enthusiast
+###  Actuarial Analyst |  Data Wizard |  ML Enthusiast
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Turning+data+into+insights%2C+one+model+at+a+time!+%F0%9F%92%BB%E2%9C%A8)](https://git.io/typing-svg)
 
-</div>
 
+<div align="center">
+
+### 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kelvin_Kinoti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-kinoti-782066210/)
+[![Email](https://img.shields.io/badge/Email-kinotikelvin.ke@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:kinotikelvin.ke@gmail.com)
+
+
+
+</div>
 
 ---
 
@@ -108,7 +117,7 @@ Created interactive Tableau dashboards analyzing historical sales data with time
 
 ---
 
-## 💡 Core Interests
+##  Core Interests
 
 | 🎲 Risk Management | 🤖 ML & Automation | 💼 Portfolio Optimization |
 |:------------------:|:------------------:|:-------------------------:|
@@ -116,12 +125,6 @@ Created interactive Tableau dashboards analyzing historical sales data with time
 
 ---
 
-<div align="center">
-
-### 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kelvin_Kinoti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-kinoti-782066210/)
-[![Email](https://img.shields.io/badge/Email-kinotikelvin.ke@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:kinotikelvin.ke@gmail.com)
 
 **Open to opportunities in Data Science, Risk Analytics, and Machine Learning!**
 
