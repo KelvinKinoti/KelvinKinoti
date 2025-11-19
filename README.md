@@ -14,7 +14,7 @@
 </div>
 
 
-## 🚀 About Me
+##  About Me
 
 ```python
 class KelvinKinoti:
@@ -38,26 +38,26 @@ me.say_hi()
 
 ---
 
-## 🛠️ Tech Arsenal
+##  Tech Arsenal
 
-### 💻 Languages & Tools
+###  Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### 📊 Data Viz & Analytics
+###  Data Viz & Analytics
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### 🤖 ML & DL Frameworks
+###  ML & DL Frameworks
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
 
-## 🎯 What I'm Up To
+##  What I'm Up To
 
 - 🔭 Currently working on: **Advanced ML models & Deep Learning projects**
 - 🌱 Learning: **Cutting-edge AI techniques and AutoML**
@@ -67,22 +67,22 @@ me.say_hi()
 
 ---
 
-## 🏆 Featured Projects
+##  Featured Projects
 
-### 👁️ Ocular Disease Detection System
-> 🎯 **89.2% Validation Accuracy** | Deep Learning | Medical AI
+###  Ocular Disease Detection System
+>  **89.2% Validation Accuracy** | Deep Learning | Medical AI
 
 Built an automated multi-label classification system using **DenseNet121** and **MobileNet** to detect 8 different eye diseases from 6,392 medical images!
 
 **Highlights:**
-- 🔥 0.91 AUC Score
-- 💎 Cataract Detection: F1 Score 0.84
-- 👓 Myopia Detection: F1 Score 0.78
-- 🎨 Transfer Learning & Data Augmentation
+-  0.91 AUC Score
+-  Cataract Detection: F1 Score 0.84
+-  Myopia Detection: F1 Score 0.78
+-  Transfer Learning & Data Augmentation
 
 ---
 
-### 🐦 Twitter Sentiment Analysis
+###  Twitter Sentiment Analysis
 > Real-time brand sentiment tracking for Apple & Google
 
 Developed an **LSTM-based sentiment classifier** achieving 63% accuracy on SXSW conference tweets.
@@ -91,7 +91,7 @@ Developed an **LSTM-based sentiment classifier** achieving 63% accuracy on SXSW 
 
 ---
 
-### 📈 Sales Analytics Dashboard
+###  Sales Analytics Dashboard
 > Drove 10% increase in sales revenue
 
 Created interactive Tableau dashboards analyzing historical sales data with time series forecasting.
@@ -100,18 +100,18 @@ Created interactive Tableau dashboards analyzing historical sales data with time
 
 ---
 
-## 🎓 Certifications & Education
+##  Certifications & Education
 
 ```
-🎯 Data Science Program ─────────────── Moringa School
-📊 BSc. Actuarial Science ─────────── DeKUT 
+ Data Science Program ─────────────── Moringa School
+ BSc. Actuarial Science ─────────── DeKUT 
 ```
 
 ---
 
 ##  Core Interests
 
-| 🎲 Risk Management | 🤖 ML & Automation | 💼 Portfolio Optimization |
+|  Risk Management |  ML & Automation |  Portfolio Optimization |
 |:------------------:|:------------------:|:-------------------------:|
 | Applied risk methodologies & mortality modeling | Automating repetitive tasks with ML | Data-driven business decisions |
 
